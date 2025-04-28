@@ -1,0 +1,13 @@
+# VSCode settings
+.vscode/
+
+# Java compiled files
+*.class
+
+# Output directories
+/bin/
+/out/
+
+# OS junk files
+.DS_Store
+Thumbs.db
